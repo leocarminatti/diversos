@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737620827922",
+    "firebase_url": "https://chatmodelo-af014.firebaseio.com",
+    "project_id": "chatmodelo-af014",
+    "storage_bucket": "chatmodelo-af014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737620827922:android:a3fccc338bcaf8f050ddcb",
+        "android_client_info": {
+          "package_name": "com.example.chatmodelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737620827922-2au3sc9gfii37nh6dvilpfoc4c0aek04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmodelo",
+            "certificate_hash": "9b9d2c52de0c7db1ba7ec8f9297fad74634d9cc8"
+          }
+        },
+        {
+          "client_id": "737620827922-itkukjhi3hfp3c33fei7acdm86ut3muo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wuwGJaM4RoD_4xxEQoVtVOhyDqeY_Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737620827922-itkukjhi3hfp3c33fei7acdm86ut3muo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
